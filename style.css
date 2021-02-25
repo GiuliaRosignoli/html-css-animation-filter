@@ -99,6 +99,7 @@
     filter: grayscale(0.8) drop-shadow(16px 16px 20px red) invert(75%);
 }
 
+
 /* EXERCISE 8 */
 
 .ex-8-img {
@@ -128,6 +129,7 @@ transform: scale(2.1);
 
 
 /* EXERCISE 10 */
+
 .ex-10-icon {
     font-size: 60px;
 }
@@ -142,12 +144,12 @@ transform: scale(2.1);
     }
 }
 
+
 /* EXERCISE 11 */
 
 .ex-11-icon {
     font-size: 60px;
 }
-
 
 
 /* EXERCISE 12 */
@@ -165,6 +167,7 @@ transform: scale(2.1);
     text-align: center;
     text-decoration: none;
 }
+
 .ex-12-top-white, .ex-13-top-white {
     position: absolute;
     top: -10px;
@@ -173,6 +176,7 @@ transform: scale(2.1);
     width: 60px;
     height: 20px;
 }
+
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
     bottom: -10px;
@@ -181,8 +185,6 @@ transform: scale(2.1);
     width: 60px;
     height: 20px;
 }
-
-
 
 
 /* EXERCISE 13 */
@@ -208,6 +210,7 @@ transform: scale(2.1);
     width: 60px;
     height: 20px;
 }
+
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
     bottom: -10px;
